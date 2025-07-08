@@ -1,16 +1,35 @@
-## Hi there 👋
+## 🌸 Merhaba, ben Zeynepsu! 👩‍💻  
 
-<!--
-**zeynepsumil/zeynepsumil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Teknik uzmanlık ile sanatsal ifade arasında köprü kuran projeler üretmeyi seviyorum.  
+Özellikle **kullanıcı seçimlerine bağlı, hikâye bazlı interaktif oyunlar** geliştirme konusunda çalışıyorum.
 
-Here are some ideas to get you started:
+Aynı zamanda frontend geliştirme ile ilgileniyor, mobil uygulamalarda **kullanıcı deneyimi** ve **estetik tasarım** odaklı projeler geliştiriyorum.  
+Yapay zeka ile ilgileniyor ve projelerime bu alanda geliştirmeler eklemeye çalışıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 İlgi Alanlarım  
+
+- 📱 Mobil Uygulama Geliştirme  
+- 🎮 Mobil-interaktif hikâye oyunları (Ren’Py ve Unity ile)  
+- 🌐 Kullanıcı dostu ve göze hitap eden web arayüzleri  
+- 🤖 Yapay Zeka ve deneysel projeler  
+- 📜 Hikâye Yazarlığı  
+
+---
+
+## 🛠️ Kullandığım ve Öğrenmekte Olduğum Teknolojiler  
+
+**Diller ve Araçlar:**  
+HTML • CSS • JavaScript • C# • Python  
+
+**Geliştirme Ortamları:**  
+Unity • Ren’Py  
+
+---
+
+## ✨ Küçük Bir Not  
+
+Her gün biraz daha büyüyen bu profil; öğrendiğim yeni bilgiler, geliştirdiğim projeler ve yaratıcı fikirlerle gelişmeye devam edecek.  
+Kod yazmak, kelimelerle evren yaratmak gibi ve ben bu yolculuğun daha başındayım.
+
