@@ -32,4 +32,5 @@ Unity • Ren’Py
 
 Her gün biraz daha büyüyen bu profil; öğrendiğim yeni bilgiler, geliştirdiğim projeler ve yaratıcı fikirlerle gelişmeye devam edecek.  
 Kod yazmak, kelimelerle evren yaratmak gibi ve ben bu yolculuğun daha başındayım.
-
+Eğer sen de yazılım, oyun geliştirme ya da teknolojiyle ilgileniyorsan veya birlikte üretmek istersen, bana mutlaka ulaşabilirsin! 🌸
+🦥 [Instagram](https://www.instagram.com/zeynepsumil?igsh=eWVnaHpuMmxkODAy)
