@@ -24,7 +24,7 @@ Yapay zeka ile ilgileniyor ve projelerime bu alanda geliştirmeler eklemeye çal
 HTML • CSS • JavaScript • C# • Python  
 
 **Geliştirme Ortamları:**  
-Unity • Ren’Py  
+Unity 
 
 ---
 
