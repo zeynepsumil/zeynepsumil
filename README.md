@@ -11,7 +11,7 @@ Yapay zeka ile ilgileniyor ve projelerime bu alanda geliştirmeler eklemeye çal
 ## 🚀 İlgi Alanlarım  
 
 - 📱 Mobil Uygulama Geliştirme  
-- 🎮 Mobil-interaktif hikâye oyunları (Ren’Py ve Unity ile)  
+- 🎮 Mobil-interaktif hikâye oyunları 
 - 🌐 Kullanıcı dostu ve göze hitap eden web arayüzleri  
 - 🤖 Yapay Zeka ve deneysel projeler  
 - 📜 Hikâye Yazarlığı  
